@@ -4,4 +4,4 @@
 
 ###### Guntur
 
-The about **Guntur** was in **India**
+The above **Guntur** was in **India**
