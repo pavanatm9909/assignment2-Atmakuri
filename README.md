@@ -63,7 +63,7 @@ It describes the food/drink item name, location and amount of money.
 
 > If the weights are positive, then a minimum spanning tree is in fact a minimum-cost subgraph connecting all vertices, since subgraphs containing cycles necessarily have more total weight.
 
-``
+```
 int n;
 vector<vector<int>> adj; // adjacency matrix of graph
 const int INF = 1000000000; // weight INF means there is no edge
@@ -103,6 +103,6 @@ void prim() {
 
     cout << total_weight << endl;
 }
-``
+```
 <br>
 Let's know about more about Minimum spanning tree <https://cp-algorithms.com/graph/mst_prim.html>
