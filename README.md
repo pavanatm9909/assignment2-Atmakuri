@@ -47,3 +47,10 @@ It describes the food/drink item name, location and amount of money.
 |BBQ | BBQ Nation| 10 |
 | Punugulu | Vijayawada ST food | 20 |
 
+### Quotes
+ 
+---
+ 
+> A dream is not that which you see while sleeping, it is something that does not let you sleep. - *A.P.J ABDUL KALAM*
+
+> Folks are usually about as happy as they make their minds up to be. - *ABRAHAM LONCOLN*
