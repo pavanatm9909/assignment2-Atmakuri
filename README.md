@@ -104,5 +104,5 @@ void prim() {
     cout << total_weight << endl;
 }
 ```
-<br>
+
 Let's know about more about Minimum spanning tree <https://cp-algorithms.com/graph/mst_prim.html>
