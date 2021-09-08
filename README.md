@@ -30,5 +30,20 @@ The above **Guntur** was in **India**
             * Beers
             * Lassy
 4. From Newdelhi go to the  Agra by car
- 
+
  [About Me](AboutMe.md)
+
+The following table describes the 4 types of food/drinks that everyone should try.<br>
+It describes the food/drink item name, location and amount of money.
+ 
+### FOOD & Drink Table
+ 
+---
+ 
+| Food/Drink Item | Location | Amount |
+|   ----------    |  -----   |   ---- | 
+| Dosa | Hyderabad | 75 |
+| Corona Extra | Texas | 90 |
+|BBQ | BBQ Nation| 10 |
+| Punugulu | Vijayawada ST food | 20 |
+
